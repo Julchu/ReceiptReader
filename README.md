@@ -3,9 +3,7 @@ Reads Tangerine credit card receipts and saves it into chronological CSV (Excel)
 
 Instructions:
 
-1. Create 2 directories: "HTMLs", "CSVs"
-
-2. Download your Tangerine credit card receipts and drag & drop them onto pdftohtml.exe
+1. Download your Tangerine credit card receipts and drag & drop them onto pdftohtml.exe
 
 3. Place the converted HTML file ending with an extra "s" into HTMLs and delete the rest
 
